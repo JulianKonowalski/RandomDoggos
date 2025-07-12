@@ -7,7 +7,7 @@ on it/change it!
 
 # Key Features
 The app comes with one button and one dropdown menu. Just choose your favourite dog breed or leave
-the filter at random and click away, drawing from the <almost> endless pool of dog pics :))
+the filter at random and click away, drawing from the (almost) endless pool of dog pics :))
 
 # Project setup
 To set up this project locally run:
