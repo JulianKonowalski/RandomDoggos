@@ -1,0 +1,12 @@
+# environment config
+.vs/
+.vscode/
+
+# python stuff
+.venv/
+__pycache__/
+
+# pyinstaller output
+*.spec
+build/
+dist/
